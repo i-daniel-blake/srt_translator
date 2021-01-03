@@ -7,6 +7,7 @@ This is a simple python script for translating SRT(SubRip) files to other langua
   - lxml
   - cssselect
 ```
+  python -m pip install requests
   python -m pip install lxml
   python -m pip install cssselect
 ```
